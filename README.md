@@ -4,7 +4,7 @@ In the project directory, you can run:
 
 ### `Via Link`
 
-Direct Link of Deployed App [App Link]()
+Direct Link of Deployed App [App Link](https://eat-and-split-vs.netlify.app/)
 
 ### `npm start`
 
